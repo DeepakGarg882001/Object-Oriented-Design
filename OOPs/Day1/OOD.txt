@@ -1,0 +1,50 @@
+                                                     -------------- Let's Start ---------------
+
+
+ 
+ #Object Oriented Design 
+   
+   => Low Level Designing
+
+     
+
+     # what is OOP's ?
+        
+        it is a type of Programming(coding) Technique in which all the concepts revolves arround { Classes, Objects, 4 Pillers }.
+
+        4-Pillers: -> Inheritence
+                   -> Polymorphism
+                   -> Encapsulation
+                   -> Abstraction
+
+
+             #Class: it is a type of Design. i.e BluePrint , Templet
+                
+                     It have Two Properties/Components : 
+                                             -> State ( Properties / Field / Data Member )
+                                             -> Behaviour (function / Data Function )
+
+                     eg: We have a ` Human ` as a Class ,then 
+                              it's state will be like that : it have two Eyes
+                                                             it have Two legs
+                                                             it have one mouth
+                                                             it have one Noise
+                                                             ..etc   
+
+                              it's Behaviour will be like that : 
+                                                             it can walk
+                                                             it can speak
+                                                             it can fight
+                                                             it can eat 
+                                                             it can sleep
+                                                             it can watch
+                                                             ...etc  
+
+                  -> Class takes very very small amount of Memory Space.
+
+
+             #Object: Object is the instance of Class.
+
+                  -> Object takes some amount of Memory Space.     
+   
+     
